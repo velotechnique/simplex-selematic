@@ -5,6 +5,8 @@ dessins 3d freecad, assemblages et animations du dérailleur simplex selematic s
 
 les documents disponibles sont extraits du site DISRAELI GEARS A derailleur collection : https://www.disraeligears.co.uk/site/simplex_selematic_5_derailleur.html
 
+ils figurent dans la partie file du depository :
+
 1 fichier .pdf de la demande de brevêt du 03/07/1981 26 pages sans illustration
 
 7 planches techniques .jpg faisant partie de la demande de brevêt

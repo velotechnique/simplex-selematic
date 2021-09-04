@@ -10,3 +10,6 @@ les documents disponibles sont extraits du site DISRAELI GEARS A derailleur coll
 7 planches techniques .jpg faisant partie de la demande de brevêt
 
 1 exemplaire en nature disponible chez velotechnique, dérailleur seul sans câble et sans manette
+
+post & communication dans le forum freecad français :
+https://forum.freecadweb.org/viewtopic.php?f=12&t=61934

@@ -1,9 +1,9 @@
 # simplex-selematic
 objet du repository :
 
-dessin 3d freecad du dérailleur simplex selon nature et brevet US patent # 4,504,250
+dessin 3d freecad du dérailleur simplex selematic selon nature et brevet US patent # 4,504,250
 
-les documents disponibles extraits du site DISRAELI GEARS A derailleur collection :
+les documents disponibles sont extraits du site DISRAELI GEARS A derailleur collection :
 
 1 fichier .pdf de la demande de brevêt du 03/07/1981 26 pages sans illustration
 

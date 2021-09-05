@@ -9,7 +9,7 @@ ils figurent dans la partie fichier (go to file) du depository :
 
 1 fichier .pdf de la demande de brevêt du 03/07/1981 26 pages sans illustration
 
-7 planches techniques .jpg faisant partie de la demande de brevêt
+7 planches techniques .jpg faisant partie de la demande de brevêt, il est à noter que sur des écrans de définition moyenne, une partie du document est masquée à droite, il convient d'utiliser l'ascenseur horizontal ou le déplacement latéral de la molette de souris
 
 1 exemplaire en nature disponible chez velotechnique, dérailleur seul sans câble et sans manette
 
